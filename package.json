@@ -1,0 +1,25 @@
+{
+  "name": "js_n_5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vognev2017/EEF_project_JS_N_5.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vognev2017/EEF_project_JS_N_5/issues"
+  },
+  "homepage": "https://github.com/Vognev2017/EEF_project_JS_N_5#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1"
+  }
+}
